@@ -1,1 +1,3 @@
-this sample git code file
+this sample git code fil
+
+updating the file
